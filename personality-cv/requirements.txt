@@ -1,0 +1,13 @@
+flask
+joblib
+scikit-learn
+pandas
+numpy
+pdfplumber
+docx2txt
+pyspellchecker
+datasets
+transformers
+pytesseract
+pdf2image
+
